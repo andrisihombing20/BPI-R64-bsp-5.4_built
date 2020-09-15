@@ -1,0 +1,151 @@
+!<thin>
+//                                              972       `
+route.o/
+inetpeer.o/
+protocol.o/
+ip_input.o/
+ip_fragment.o/
+ip_forward.o/
+ip_options.o/
+ip_output.o/
+ip_sockglue.o/
+inet_hashtables.o/
+inet_timewait_sock.o/
+inet_connection_sock.o/
+tcp.o/
+tcp_input.o/
+tcp_output.o/
+tcp_timer.o/
+tcp_ipv4.o/
+tcp_minisocks.o/
+tcp_cong.o/
+tcp_metrics.o/
+tcp_fastopen.o/
+tcp_rate.o/
+tcp_recovery.o/
+tcp_ulp.o/
+tcp_offload.o/
+datagram.o/
+raw.o/
+udp.o/
+udplite.o/
+udp_offload.o/
+arp.o/
+icmp.o/
+devinet.o/
+af_inet.o/
+igmp.o/
+fib_frontend.o/
+fib_semantics.o/
+fib_trie.o/
+fib_notifier.o/
+inet_fragment.o/
+ping.o/
+ip_tunnel_core.o/
+gre_offload.o/
+metrics.o/
+netlink.o/
+nexthop.o/
+ip_tunnel.o/
+sysctl_net_ipv4.o/
+proc.o/
+fib_rules.o/
+ipmr.o/
+ipmr_base.o/
+ipip.o/
+gre_demux.o/
+ip_gre.o/
+syncookies.o/
+tunnel4.o/
+ipconfig.o/
+netfilter.o/
+inet_diag.o/
+tcp_diag.o/
+tcp_cubic.o/
+tcp_highspeed.o/
+tcp_hybla.o/
+tcp_vegas.o/
+tcp_nv.o/
+tcp_scalable.o/
+tcp_lp.o/
+tcp_illinois.o/
+xfrm4_policy.o/
+xfrm4_state.o/
+xfrm4_input.o/
+xfrm4_output.o/
+xfrm4_protocol.o/
+
+/0              0           0     0     644     65120     `
+/9              0           0     0     644     8240      `
+/21             0           0     0     644     9960      `
+/33             0           0     0     644     9896      `
+/45             0           0     0     644     15832     `
+/60             0           0     0     644     4952      `
+/74             0           0     0     644     11088     `
+/88             0           0     0     644     33192     `
+/101            0           0     0     644     24144     `
+/116            0           0     0     644     22840     `
+/135            0           0     0     644     9744      `
+/157            0           0     0     644     30360     `
+/181            0           0     0     644     77256     `
+/188            0           0     0     644     72152     `
+/201            0           0     0     644     47480     `
+/215            0           0     0     644     16048     `
+/228            0           0     0     644     59320     `
+/240           /0           0     0     644     15520     `
+/257            0           0     0     644     16088     `
+/269            0           0     0     644     15584     `
+/284            0           0     0     644     11440     `
+/300            0           0     0     644     3816      `
+/312            0           0     0     644     5568      `
+/328            0           0     0     644     4904      `
+/339            0           0     0     644     6696      `
+/354            0           0     0     644     5800      `
+/366            0           0     0     644     26680     `
+/373            0           0     0     644     70928     `
+/380            0           0     0     644     7888      `
+/391            0           0     0     644     11120     `
+/406            0           0     0     644     24472     `
+/413            0           0     0     644     21536     `
+/421            0           0     0     644     54896     `
+/432            0           0     0     644     47760     `
+/443            0           0     0     644     45264     `
+/451            0           0     0     644     28560     `
+/467           /0           0     0     644     33720     `
+/484            0           0     0     644     35128     `
+/496            0           0     0     644     3968      `
+/512           /0           0     0     644     20224     `
+/529            0           0     0     644     40400     `
+/537            0           0     0     644     14384     `
+/555            0           0     0     644     5552      `
+/570            0           0     0     644     3552      `
+/581            0           0     0     644     2216      `
+/592            0           0     0     644     28880     `
+/603            0           0     0     644     29680     `
+/616            0           0     0     644     32920     `
+/635            0           0     0     644     22736     `
+/643            0           0     0     644     7896      `
+/656            0           0     0     644     58904     `
+/664            0           0     0     644     14224     `
+/677            0           0     0     644     15616     `
+/685            0           0     0     644     7984      `
+/698            0           0     0     644     31152     `
+/708            0           0     0     644     11544     `
+/722            0           0     0     644     8344      `
+/733            0           0     0     644     37640     `
+/745            0           0     0     644     3752      `
+/758            0           0     0     644     23192     `
+/771            0           0     0     644     5888      `
+/783            0           0     0     644     13176     `
+/796           /0           0     0     644     4856      `
+/813            0           0     0     644     5296      `
+/826            0           0     0     644     8848      `
+/839            0           0     0     644     9280      `
+/849            0           0     0     644     3840      `
+/865            0           0     0     644     5568      `
+/875            0           0     0     644     6760      `
+/891            0           0     0     644     7520      `
+/907            0           0     0     644     2152      `
+/922            0           0     0     644     5024      `
+/937            0           0     0     644     3456      `
+/953            0           0     0     644     8736      `

@@ -1,0 +1,1 @@
+cmd_net/ieee802154/ieee802154_socket.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o net/ieee802154/ieee802154_socket.ko net/ieee802154/ieee802154_socket.o net/ieee802154/ieee802154_socket.mod.o;  true

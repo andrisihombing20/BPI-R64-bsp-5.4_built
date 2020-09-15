@@ -1,0 +1,25 @@
+!<thin>
+//                                              174       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+of-thermal.o/
+fair_share.o/
+gov_bang_bang.o/
+step_wise.o/
+user_space.o/
+power_allocator.o/
+cpu_cooling.o/
+mtk_thermal.o/
+
+/0              0           0     0     644     36088     `
+/16            /0           0     0     644     20600     `
+/33             0           0     0     644     9328      `
+/52             0           0     0     644     20512     `
+/66             0           0     0     644     2456      `
+/80            /0           0     0     644     4816      `
+/97             0           0     0     644     5264      `
+/110            0           0     0     644     2744      `
+/124            0           0     0     644     6936      `
+/143            0           0     0     644     12264     `
+/158            0           0     0     644     16624     `

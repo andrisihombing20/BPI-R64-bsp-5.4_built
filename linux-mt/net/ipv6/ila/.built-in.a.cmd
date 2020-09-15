@@ -1,0 +1,1 @@
+cmd_net/ipv6/ila/built-in.a := rm -f net/ipv6/ila/built-in.a; aarch64-linux-gnu-ar cDPrST net/ipv6/ila/built-in.a net/ipv6/ila/ila_main.o net/ipv6/ila/ila_common.o net/ipv6/ila/ila_lwt.o net/ipv6/ila/ila_xlat.o

@@ -1,0 +1,52 @@
+!<thin>
+//                                              454       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+mediatek/clk-mtk.o/
+mediatek/clk-pll.o/
+mediatek/clk-gate.o/
+mediatek/clk-apmixed.o/
+mediatek/clk-cpumux.o/
+mediatek/reset.o/
+mediatek/clk-mux.o/
+mediatek/clk-mt7622.o/
+mediatek/clk-mt7622-eth.o/
+mediatek/clk-mt7622-hif.o/
+mediatek/clk-mt7622-aud.o/
+/0              0           0     0     644     7800      `
+/14             0           0     0     644     8504      `
+/26             0           0     0     644     14888     `
+/36             0           0     0     644     98448     `
+/43             0           0     0     644     14080     `
+/58             0           0     0     644     11544     `
+/78             0           0     0     644     10632     `
+/96             0           0     0     644     7440      `
+/108            0           0     0     644     3904      `
+/126            0           0     0     644     10352     `
+/137           /0           0     0     644     6240      `
+/154            0           0     0     644     6592      `
+/180            0           0     0     644     12352     `
+/192            0           0     0     644     5056      `
+/204            0           0     0     644     5272      `
+/224            0           0     0     644     6080      `
+/244            0           0     0     644     4872      `
+/265            0           0     0     644     3624      `
+/289            0           0     0     644     3320      `
+/312            0           0     0     644     3496      `
+/330            0           0     0     644     6048      `
+/350            0           0     0     644     32016     `
+/373            0           0     0     644     6704      `
+/400            0           0     0     644     9176      `
+/427            0           0     0     644     12392     `
