@@ -1,0 +1,3 @@
+drivers/dma/virt-dma.ko
+drivers/dma/dmatest.ko
+drivers/dma/mediatek/mtk-hsdma.ko

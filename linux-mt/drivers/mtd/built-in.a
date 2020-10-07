@@ -1,0 +1,16 @@
+!<thin>
+//                                              94        `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+chips/chipreg.o/
+spi-nor/spi-nor.o/
+/0              0           0     0     644     57928     `
+/11             0           0     0     644     10432     `
+/23             0           0     0     644     12944     `
+/36             0           0     0     644     25672     `
+/47             0           0     0     644     26088     `
+/58             0           0     0     644     6984      `
+/75             0           0     0     644     65904     `

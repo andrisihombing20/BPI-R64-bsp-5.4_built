@@ -1,0 +1,34 @@
+# 1 "drivers/of/unittest-data/overlay_15.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_15.dts"
+
+/dts-v1/;
+/plugin/;
+
+
+
+&unittest_i2c_test_bus {
+ #address-cells = <1>;
+ #size-cells = <0>;
+ test-unittest15 {
+  reg = <11>;
+  compatible = "unittest-i2c-mux";
+  status = "okay";
+
+  #address-cells = <1>;
+  #size-cells = <0>;
+
+  i2c@0 {
+   #address-cells = <1>;
+   #size-cells = <0>;
+   reg = <0>;
+
+   test-mux-dev@20 {
+    reg = <0x20>;
+    compatible = "unittest-i2c-dev";
+    status = "okay";
+   };
+  };
+ };
+};

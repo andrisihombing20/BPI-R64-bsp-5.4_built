@@ -1,0 +1,20 @@
+# 1 "drivers/of/unittest-data/overlay_bad_symbol.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_bad_symbol.dts"
+
+/dts-v1/;
+/plugin/;
+
+&electric_1 {
+
+
+
+
+ hvac_1: hvac-medium-2 {
+  compatible = "ot,hvac-medium";
+  heat-range = < 50 75 >;
+  cool-range = < 60 80 >;
+ };
+
+};

@@ -1,0 +1,6 @@
+testcases.o: drivers/of/unittest-data/testcases.dts \
+ drivers/of/unittest-data/tests-phandle.dtsi \
+ drivers/of/unittest-data/tests-interrupts.dtsi \
+ drivers/of/unittest-data/tests-match.dtsi \
+ drivers/of/unittest-data/tests-platform.dtsi \
+ drivers/of/unittest-data/tests-overlay.dtsi

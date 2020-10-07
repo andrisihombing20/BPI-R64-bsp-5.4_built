@@ -1,0 +1,100 @@
+!<thin>
+//                                              744       `
+access.o/
+bus.o/
+probe.o/
+host-bridge.o/
+remove.o/
+pci.o/
+pci-driver.o/
+search.o/
+pci-sysfs.o/
+rom.o/
+setup-res.o/
+irq.o/
+vpd.o/
+setup-bus.o/
+vc.o/
+mmap.o/
+setup-irq.o/
+proc.o/
+slot.o/
+of.o/
+quirks.o/
+pcie/portdrv_core.o/
+pcie/portdrv_pci.o/
+pcie/err.o/
+pcie/aspm.o/
+pcie/aer.o/
+pcie/aer_inject.o/
+pcie/pme.o/
+pcie/dpc.o/
+pcie/ptm.o/
+pcie/bw_notification.o/
+hotplug/pci_hotplug_core.o/
+hotplug/pciehp_core.o/
+hotplug/pciehp_ctrl.o/
+hotplug/pciehp_pci.o/
+hotplug/pciehp_hpc.o/
+msi.o/
+ats.o/
+iov.o/
+syscall.o/
+ecam.o/
+controller/pci-host-common.o/
+controller/pci-host-generic.o/
+controller/pcie-mediatek.o/
+controller/dwc/pcie-al.o/
+controller/dwc/pcie-hisi.o/
+controller/pci-thunder-ecam.o/
+controller/pci-thunder-pem.o/
+controller/pci-xgene.o/
+/0              0           0     0     644     40288     `
+/10             0           0     0     644     12208     `
+/17             0           0     0     644     60912     `
+/26             0           0     0     644     3728      `
+/41             0           0     0     644     6952      `
+/51             0           0     0     644     137536    `
+/58             0           0     0     644     29792     `
+/72             0           0     0     644     9464      `
+/82             0           0     0     644     32344     `
+/95             0           0     0     644     7792      `
+/102            0           0     0     644     11384     `
+/115            0           0     0     644     5032      `
+/122            0           0     0     644     15336     `
+/129            0           0     0     644     33136     `
+/142            0           0     0     644     6656      `
+/148            0           0     0     644     1664      `
+/156            0           0     0     644     3448      `
+/169            0           0     0     644     13112     `
+/177            0           0     0     644     14592     `
+/185            0           0     0     644     17272     `
+/191            0           0     0     644     145824    `
+/201            0           0     0     644     10640     `
+/222            0           0     0     644     8072      `
+/242            0           0     0     644     7664      `
+/254            0           0     0     644     23112     `
+/267            0           0     0     644     24480     `
+/279            0           0     0     644     17200     `
+/298            0           0     0     644     12192     `
+/310            0           0     0     644     11016     `
+/322            0           0     0     644     4016      `
+/334            0           0     0     644     4760      `
+/358            0           0     0     644     15936     `
+/386            0           0     0     644     11752     `
+/409            0           0     0     644     10656     `
+/432            0           0     0     644     5328      `
+/454            0           0     0     644     30816     `
+/476            0           0     0     644     32984     `
+/483            0           0     0     644     6704      `
+/490            0           0     0     644     22856     `
+/497            0           0     0     644     6616      `
+/508            0           0     0     644     4088      `
+/516            0           0     0     644     3512      `
+/546            0           0     0     644     5096      `
+/577           /0           0     0     644     30536     `
+/605            0           0     0     644     944       `
+/631            0           0     0     644     952       `
+/659            0           0     0     644     960       `
+/690            0           0     0     644     952       `
+/720            0           0     0     644     952       `

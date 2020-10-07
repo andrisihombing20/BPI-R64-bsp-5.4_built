@@ -1,0 +1,24 @@
+!<thin>
+//                                              220       `
+cpufreq.o/
+freq_table.o/
+cpufreq_stats.o/
+cpufreq_performance.o/
+cpufreq_powersave.o/
+cpufreq_userspace.o/
+cpufreq_ondemand.o/
+cpufreq_conservative.o/
+cpufreq_governor.o/
+cpufreq_governor_attr_set.o/
+mediatek-cpufreq.o/
+/0              0           0     0     644     111216    `
+/11             0           0     0     644     16144     `
+/25            /0           0     0     644     9328      `
+/42             0           0     0     644     5024      `
+/65             0           0     0     644     4888      `
+/86             0           0     0     644     10056     `
+/107            0           0     0     644     15576     `
+/127            0           0     0     644     9592      `
+/151            0           0     0     644     15624     `
+/171            0           0     0     644     4888      `
+/200            0           0     0     644     18560     `

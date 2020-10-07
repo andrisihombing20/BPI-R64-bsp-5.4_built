@@ -1,0 +1,8 @@
+drivers/i2c/i2c-core.ko
+drivers/i2c/i2c-dev.ko
+drivers/i2c/i2c-mux.ko
+drivers/i2c/i2c-slave-eeprom.ko
+drivers/i2c/busses/i2c-mt65xx.ko
+drivers/i2c/muxes/i2c-demux-pinctrl.ko
+drivers/i2c/muxes/i2c-mux-gpio.ko
+drivers/i2c/muxes/i2c-mux-pinctrl.ko

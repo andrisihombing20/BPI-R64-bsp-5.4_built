@@ -1,0 +1,1 @@
+cmd_drivers/hsi/built-in.a := rm -f drivers/hsi/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/hsi/built-in.a drivers/hsi/hsi_core.o drivers/hsi/hsi_boardinfo.o drivers/hsi/controllers/built-in.a drivers/hsi/clients/built-in.a

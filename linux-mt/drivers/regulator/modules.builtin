@@ -1,0 +1,3 @@
+drivers/regulator/fixed.ko
+drivers/regulator/mt6323-regulator.ko
+drivers/regulator/mt6380-regulator.ko

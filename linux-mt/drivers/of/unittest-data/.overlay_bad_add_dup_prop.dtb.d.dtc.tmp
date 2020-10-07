@@ -1,0 +1,1 @@
+drivers/of/unittest-data/overlay_bad_add_dup_prop.dtb: drivers/of/unittest-data/.overlay_bad_add_dup_prop.dtb.dts.tmp

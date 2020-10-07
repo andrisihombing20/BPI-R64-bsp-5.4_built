@@ -1,0 +1,1 @@
+drivers/of/unittest-data/overlay_bad_symbol.dtb: drivers/of/unittest-data/.overlay_bad_symbol.dtb.dts.tmp

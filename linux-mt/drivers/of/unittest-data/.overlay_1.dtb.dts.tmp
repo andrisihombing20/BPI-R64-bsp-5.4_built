@@ -1,0 +1,18 @@
+# 1 "drivers/of/unittest-data/overlay_1.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_1.dts"
+
+/dts-v1/;
+/plugin/;
+
+/ {
+
+
+ fragment@0 {
+  target-path = "/testcase-data/overlay-node/test-bus/test-unittest1";
+  __overlay__ {
+   status = "disabled";
+  };
+ };
+};

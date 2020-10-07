@@ -1,0 +1,12 @@
+!<thin>
+//                                              78        `
+pci_hotplug_core.o/
+pciehp_core.o/
+pciehp_ctrl.o/
+pciehp_pci.o/
+pciehp_hpc.o/
+/0              0           0     0     644     15936     `
+/20             0           0     0     644     11752     `
+/35             0           0     0     644     10656     `
+/50             0           0     0     644     5328      `
+/64             0           0     0     644     30816     `

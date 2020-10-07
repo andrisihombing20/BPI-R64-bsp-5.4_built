@@ -1,0 +1,18 @@
+!<thin>
+//                                              232       `
+mediatek/mtk_eth_soc.o/
+mediatek/mtk_sgmii.o/
+mediatek/mtk_eth_path.o/
+qualcomm/rmnet/rmnet_config.o/
+qualcomm/rmnet/rmnet_vnd.o/
+qualcomm/rmnet/rmnet_handlers.o/
+qualcomm/rmnet/rmnet_map_data.o/
+qualcomm/rmnet/rmnet_map_command.o/
+/0              0           0     0     644     70920     `
+/24             0           0     0     644     3344      `
+/46             0           0     0     644     11608     `
+/71             0           0     0     644     14696     `
+/102            0           0     0     644     9040      `
+/130            0           0     0     644     3912      `
+/163            0           0     0     644     3896      `
+/196            0           0     0     644     3904      `

@@ -1,0 +1,3 @@
+drivers/mtd/mtd.ko
+drivers/mtd/chips/chipreg.ko
+drivers/mtd/spi-nor/spi-nor.ko

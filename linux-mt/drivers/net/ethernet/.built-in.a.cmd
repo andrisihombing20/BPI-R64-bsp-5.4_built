@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/built-in.a := rm -f drivers/net/ethernet/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/net/ethernet/built-in.a drivers/net/ethernet/mediatek/built-in.a drivers/net/ethernet/qualcomm/built-in.a

@@ -1,0 +1,14 @@
+# 1 "drivers/of/unittest-data/overlay_9.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_9.dts"
+
+/dts-v1/;
+/plugin/;
+
+
+
+
+&unittest8 {
+ property-foo = "bar";
+};

@@ -1,0 +1,1 @@
+overlay_bad_symbol.o: drivers/of/unittest-data/overlay_bad_symbol.dts

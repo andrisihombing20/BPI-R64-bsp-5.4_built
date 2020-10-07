@@ -1,0 +1,63 @@
+!<thin>
+//                                              424       `
+bcache/alloc.o/
+bcache/bset.o/
+bcache/btree.o/
+bcache/closure.o/
+bcache/debug.o/
+bcache/extents.o/
+bcache/io.o/
+bcache/journal.o/
+bcache/movinggc.o/
+bcache/request.o/
+bcache/stats.o/
+bcache/super.o/
+bcache/sysfs.o/
+bcache/trace.o/
+bcache/util.o/
+bcache/writeback.o/
+md.o/
+md-bitmap.o/
+dm.o/
+dm-table.o/
+dm-target.o/
+dm-linear.o/
+dm-stripe.o/
+dm-ioctl.o/
+dm-io.o/
+dm-kcopyd.o/
+dm-sysfs.o/
+dm-stats.o/
+dm-rq.o/
+dm-builtin.o/
+
+/0              0           0     0     644     13896     `
+/16             0           0     0     644     28128     `
+/31             0           0     0     644     62056     `
+/47             0           0     0     644     9872      `
+/65             0           0     0     644     5048      `
+/81             0           0     0     644     13600     `
+/99             0           0     0     644     7608      `
+/112            0           0     0     644     29088     `
+/130            0           0     0     644     8072      `
+/149            0           0     0     644     33960     `
+/167            0           0     0     644     10576     `
+/183            0           0     0     644     85680     `
+/199            0           0     0     644     48216     `
+/215            0           0     0     644     944       `
+/231            0           0     0     644     7472      `
+/246            0           0     0     644     18512     `
+/266            0           0     0     644     226808    `
+/272            0           0     0     644     74776     `
+/285            0           0     0     644     77296     `
+/291            0           0     0     644     37152     `
+/303            0           0     0     644     6624      `
+/316            0           0     0     644     4512      `
+/329            0           0     0     644     10080     `
+/342            0           0     0     644     42080     `
+/354            0           0     0     644     12232     `
+/363            0           0     0     644     22680     `
+/376            0           0     0     644     4928      `
+/388            0           0     0     644     25232     `
+/400            0           0     0     644     12920     `
+/409            0           0     0     644     1960      `

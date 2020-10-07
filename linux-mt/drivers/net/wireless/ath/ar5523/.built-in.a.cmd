@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ar5523/built-in.a := rm -f drivers/net/wireless/ath/ar5523/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/net/wireless/ath/ar5523/built-in.a drivers/net/wireless/ath/ar5523/ar5523.o

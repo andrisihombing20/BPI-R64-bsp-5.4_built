@@ -1,0 +1,1 @@
+overlay_10.o: drivers/of/unittest-data/overlay_10.dts

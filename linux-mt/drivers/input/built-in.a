@@ -1,0 +1,22 @@
+!<thin>
+//                                              140       `
+input.o/
+input-compat.o/
+input-mt.o/
+input-poller.o/
+ff-core.o/
+ff-memless.o/
+input-polldev.o/
+input-leds.o/
+evdev.o/
+keyboard/gpio_keys.o/
+/0              0           0     0     644     68344     `
+/9              0           0     0     644     5616      `
+/25             0           0     0     644     9912      `
+/37             0           0     0     644     7968      `
+/53             0           0     0     644     11472     `
+/64             0           0     0     644     17608     `
+/78            /0           0     0     644     13384     `
+/95             0           0     0     644     7728      `
+/109            0           0     0     644     33800     `
+/118            0           0     0     644     22696     `

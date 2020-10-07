@@ -1,0 +1,7 @@
+drivers/usb/serial/usbserial.ko
+drivers/usb/serial/cp210x.ko
+drivers/usb/serial/ipw.ko
+drivers/usb/serial/qcaux.ko
+drivers/usb/serial/qcserial.ko
+drivers/usb/serial/usb-serial-simple.ko
+drivers/usb/serial/usb_wwan.ko

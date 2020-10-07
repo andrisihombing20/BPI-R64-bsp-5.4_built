@@ -1,0 +1,22 @@
+# 1 "drivers/of/unittest-data/overlay_bad_add_dup_node.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_bad_add_dup_node.dts"
+
+/dts-v1/;
+/plugin/;
+# 15 "drivers/of/unittest-data/overlay_bad_add_dup_node.dts"
+&electric_1 {
+
+ motor-1 {
+  controller {
+   power_bus = < 0x1 0x2 >;
+  };
+ };
+};
+
+&spin_ctrl_1 {
+  controller {
+   power_bus_emergency = < 0x101 0x102 >;
+  };
+};

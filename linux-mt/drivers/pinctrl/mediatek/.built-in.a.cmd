@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/mediatek/built-in.a := rm -f drivers/pinctrl/mediatek/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/pinctrl/mediatek/built-in.a drivers/pinctrl/mediatek/mtk-eint.o drivers/pinctrl/mediatek/pinctrl-moore.o drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.o drivers/pinctrl/mediatek/pinctrl-mt7622.o

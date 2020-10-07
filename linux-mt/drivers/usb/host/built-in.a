@@ -1,0 +1,47 @@
+!<thin>
+//                                              296       `
+pci-quirks.o/
+ehci-hcd.o/
+ehci-pci.o/
+ehci-platform.o/
+ohci-hcd.o/
+ohci-pci.o/
+ohci-platform.o/
+uhci-hcd.o/
+xhci.o/
+xhci-mem.o/
+xhci-ext-caps.o/
+xhci-ring.o/
+xhci-hub.o/
+xhci-dbg.o/
+xhci-trace.o/
+xhci-dbgcap.o/
+xhci-dbgtty.o/
+xhci-mtk-sch.o/
+xhci-debugfs.o/
+xhci-pci.o/
+xhci-plat.o/
+xhci-mtk.o/
+
+/0              0           0     0     644     33264     `
+/14             0           0     0     644     126736    `
+/26             0           0     0     644     12672     `
+/38            /0           0     0     644     12056     `
+/55             0           0     0     644     101096    `
+/67             0           0     0     644     13120     `
+/79            /0           0     0     644     11800     `
+/96             0           0     0     644     77064     `
+/108            0           0     0     644     125896    `
+/116            0           0     0     644     42824     `
+/128           /0           0     0     644     5280      `
+/145            0           0     0     644     79712     `
+/158            0           0     0     644     45024     `
+/170            0           0     0     644     4000      `
+/182            0           0     0     644     952       `
+/196            0           0     0     644     19840     `
+/211            0           0     0     644     17920     `
+/226            0           0     0     644     10632     `
+/242            0           0     0     644     36080     `
+/258            0           0     0     644     14368     `
+/270            0           0     0     644     16632     `
+/283            0           0     0     644     21552     `

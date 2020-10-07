@@ -1,0 +1,13 @@
+# 1 "drivers/of/unittest-data/overlay_5.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_5.dts"
+
+/dts-v1/;
+/plugin/;
+
+
+
+&unittest5 {
+ status = "okay";
+};

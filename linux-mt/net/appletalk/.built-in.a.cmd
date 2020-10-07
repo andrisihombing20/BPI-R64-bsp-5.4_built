@@ -1,0 +1,1 @@
+cmd_net/appletalk/built-in.a := rm -f net/appletalk/built-in.a; aarch64-linux-gnu-ar cDPrST net/appletalk/built-in.a net/appletalk/aarp.o net/appletalk/ddp.o net/appletalk/dev.o net/appletalk/atalk_proc.o net/appletalk/sysctl_net_atalk.o

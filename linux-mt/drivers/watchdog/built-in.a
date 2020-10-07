@@ -1,0 +1,14 @@
+!<thin>
+//                                              106       `
+watchdog_core.o/
+watchdog_dev.o/
+watchdog_pretimeout.o/
+pretimeout_noop.o/
+pretimeout_panic.o/
+mtk_wdt.o/
+/0             /0           0     0     644     11680     `
+/17             0           0     0     644     27680     `
+/33             0           0     0     644     12224     `
+/56             0           0     0     644     3616      `
+/75             0           0     0     644     3600      `
+/95             0           0     0     644     9568      `

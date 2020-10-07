@@ -1,0 +1,18 @@
+# 1 "drivers/of/unittest-data/overlay_bad_add_dup_prop.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_bad_add_dup_prop.dts"
+
+/dts-v1/;
+/plugin/;
+# 15 "drivers/of/unittest-data/overlay_bad_add_dup_prop.dts"
+&electric_1 {
+
+ motor-1 {
+  rpm_avail = < 100 >;
+ };
+};
+
+&spin_ctrl_1 {
+  rpm_avail = < 100 200 >;
+};

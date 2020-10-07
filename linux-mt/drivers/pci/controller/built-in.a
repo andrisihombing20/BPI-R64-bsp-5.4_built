@@ -1,0 +1,18 @@
+!<thin>
+//                                              140       `
+pci-host-common.o/
+pci-host-generic.o/
+pcie-mediatek.o/
+dwc/pcie-al.o/
+dwc/pcie-hisi.o/
+pci-thunder-ecam.o/
+pci-thunder-pem.o/
+pci-xgene.o/
+/0              0           0     0     644     3512      `
+/19             0           0     0     644     5096      `
+/39            /0           0     0     644     30536     `
+/56             0           0     0     644     944       `
+/71             0           0     0     644     952       `
+/88             0           0     0     644     960       `
+/108            0           0     0     644     952       `
+/127            0           0     0     644     952       `

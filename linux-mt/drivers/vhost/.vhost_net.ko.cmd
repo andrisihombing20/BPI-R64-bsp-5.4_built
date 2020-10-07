@@ -1,0 +1,1 @@
+cmd_drivers/vhost/vhost_net.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/vhost/vhost_net.ko drivers/vhost/vhost_net.o drivers/vhost/vhost_net.mod.o;  true

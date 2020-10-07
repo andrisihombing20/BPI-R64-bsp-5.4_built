@@ -1,0 +1,32 @@
+# 1 "drivers/of/unittest-data/overlay_11.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "drivers/of/unittest-data/overlay_11.dts"
+
+/dts-v1/;
+/plugin/;
+
+
+
+
+&unittest_test_bus {
+
+ #address-cells = <1>;
+ #size-cells = <0>;
+
+ test-unittest11 {
+  compatible = "unittest";
+  status = "okay";
+  reg = <11>;
+
+  #address-cells = <1>;
+  #size-cells = <0>;
+
+  test-unittest111 {
+   compatible = "unittest";
+   status = "okay";
+   reg = <1>;
+  };
+
+ };
+};

@@ -1,0 +1,79 @@
+!<thin>
+//                                              914       `
+base.o/
+device.o/
+platform.o/
+property.o/
+kobj.o/
+dynamic.o/
+fdt.o/
+fdt_address.o/
+address.o/
+irq.o/
+of_net.o/
+unittest.o/
+of_mdio.o/
+of_reserved_mem.o/
+resolver.o/
+overlay.o/
+unittest-data/testcases.dtb.o/
+unittest-data/overlay.dtb.o/
+unittest-data/overlay_0.dtb.o/
+unittest-data/overlay_1.dtb.o/
+unittest-data/overlay_2.dtb.o/
+unittest-data/overlay_3.dtb.o/
+unittest-data/overlay_4.dtb.o/
+unittest-data/overlay_5.dtb.o/
+unittest-data/overlay_6.dtb.o/
+unittest-data/overlay_7.dtb.o/
+unittest-data/overlay_8.dtb.o/
+unittest-data/overlay_9.dtb.o/
+unittest-data/overlay_10.dtb.o/
+unittest-data/overlay_11.dtb.o/
+unittest-data/overlay_12.dtb.o/
+unittest-data/overlay_13.dtb.o/
+unittest-data/overlay_15.dtb.o/
+unittest-data/overlay_bad_add_dup_node.dtb.o/
+unittest-data/overlay_bad_add_dup_prop.dtb.o/
+unittest-data/overlay_bad_phandle.dtb.o/
+unittest-data/overlay_bad_symbol.dtb.o/
+unittest-data/overlay_base.dtb.o/
+
+/0              0           0     0     644     75272     `
+/8              0           0     0     644     14864     `
+/18             0           0     0     644     31016     `
+/30             0           0     0     644     31360     `
+/42             0           0     0     644     5424      `
+/50             0           0     0     644     28640     `
+/61             0           0     0     644     38480     `
+/68             0           0     0     644     9776      `
+/83             0           0     0     644     33712     `
+/94             0           0     0     644     26776     `
+/101            0           0     0     644     5536      `
+/111            0           0     0     644     185000    `
+/123            0           0     0     644     19504     `
+/134            0           0     0     644     12928     `
+/153            0           0     0     644     8368      `
+/165            0           0     0     644     31048     `
+/176           /0           0     0     644     8272      `
+/207            0           0     0     644     2728      `
+/236           /0           0     0     644     1104      `
+/267           /0           0     0     644     1104      `
+/298           /0           0     0     644     1136      `
+/329           /0           0     0     644     1136      `
+/360           /0           0     0     644     1264      `
+/391           /0           0     0     644     1136      `
+/422           /0           0     0     644     1136      `
+/453           /0           0     0     644     1136      `
+/484           /0           0     0     644     1136      `
+/515           /0           0     0     644     1136      `
+/546            0           0     0     644     1392      `
+/578            0           0     0     644     1392      `
+/610            0           0     0     644     1136      `
+/642            0           0     0     644     1136      `
+/674            0           0     0     644     1456      `
+/706            0           0     0     644     1360      `
+/752            0           0     0     644     1296      `
+/798            0           0     0     644     1280      `
+/839            0           0     0     644     1344      `
+/879            0           0     0     644     3064      `

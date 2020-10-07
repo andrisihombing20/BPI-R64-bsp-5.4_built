@@ -1,0 +1,1 @@
+overlay_bad_phandle.o: drivers/of/unittest-data/overlay_bad_phandle.dts

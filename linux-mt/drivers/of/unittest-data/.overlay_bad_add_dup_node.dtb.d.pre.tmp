@@ -1,0 +1,2 @@
+overlay_bad_add_dup_node.o: \
+ drivers/of/unittest-data/overlay_bad_add_dup_node.dts
