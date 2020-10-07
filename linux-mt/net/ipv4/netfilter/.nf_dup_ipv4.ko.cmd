@@ -1,1 +1,0 @@
-cmd_net/ipv4/netfilter/nf_dup_ipv4.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o net/ipv4/netfilter/nf_dup_ipv4.ko net/ipv4/netfilter/nf_dup_ipv4.o net/ipv4/netfilter/nf_dup_ipv4.mod.o;  true

@@ -1,1 +1,0 @@
-cmd_drivers/mfd/built-in.a := rm -f drivers/mfd/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/mfd/built-in.a drivers/mfd/mfd-core.o drivers/mfd/syscon.o drivers/mfd/mt6397-core.o drivers/mfd/mt6397-irq.o

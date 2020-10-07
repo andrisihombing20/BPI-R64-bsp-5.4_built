@@ -1,1 +1,0 @@
-cmd_drivers/net/dummy.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/net/dummy.ko drivers/net/dummy.o drivers/net/dummy.mod.o;  true

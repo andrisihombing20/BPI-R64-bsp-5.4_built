@@ -1,1 +1,0 @@
-cmd_drivers/net/ethernet/mediatek/built-in.a := rm -f drivers/net/ethernet/mediatek/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/net/ethernet/mediatek/built-in.a drivers/net/ethernet/mediatek/mtk_eth_soc.o drivers/net/ethernet/mediatek/mtk_sgmii.o drivers/net/ethernet/mediatek/mtk_eth_path.o

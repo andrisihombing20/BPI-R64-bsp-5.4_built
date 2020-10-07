@@ -1,4 +1,0 @@
-drivers/watchdog/watchdog.ko
-drivers/watchdog/pretimeout_noop.ko
-drivers/watchdog/pretimeout_panic.ko
-drivers/watchdog/mtk_wdt.ko

@@ -1,1 +1,0 @@
-cmd_drivers/net/nlmon.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/net/nlmon.ko drivers/net/nlmon.o drivers/net/nlmon.mod.o;  true

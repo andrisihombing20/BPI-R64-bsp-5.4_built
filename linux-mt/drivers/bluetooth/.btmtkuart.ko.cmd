@@ -1,1 +1,0 @@
-cmd_drivers/bluetooth/btmtkuart.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/bluetooth/btmtkuart.ko drivers/bluetooth/btmtkuart.o drivers/bluetooth/btmtkuart.mod.o;  true

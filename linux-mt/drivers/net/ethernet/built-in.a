@@ -1,9 +1,0 @@
-!<thin>
-//                                              72        `
-mediatek/mtk_eth_soc.o/
-mediatek/mtk_sgmii.o/
-mediatek/mtk_eth_path.o/
-
-/0              0           0     0     644     50808     `
-/24             0           0     0     644     3320      `
-/46             0           0     0     644     8888      `

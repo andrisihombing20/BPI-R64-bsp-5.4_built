@@ -1,1 +1,0 @@
-cmd_drivers/usb/mtu3/built-in.a := rm -f drivers/usb/mtu3/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/usb/mtu3/built-in.a drivers/usb/mtu3/mtu3_plat.o drivers/usb/mtu3/mtu3_host.o drivers/usb/mtu3/mtu3_debugfs.o

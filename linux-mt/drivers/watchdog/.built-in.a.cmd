@@ -1,1 +1,0 @@
-cmd_drivers/watchdog/built-in.a := rm -f drivers/watchdog/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/watchdog/built-in.a drivers/watchdog/watchdog_core.o drivers/watchdog/watchdog_dev.o drivers/watchdog/watchdog_pretimeout.o drivers/watchdog/pretimeout_noop.o drivers/watchdog/pretimeout_panic.o drivers/watchdog/mtk_wdt.o

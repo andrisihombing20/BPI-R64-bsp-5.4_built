@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/mediatek/mt76_new/mt7615/mt7615e.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/net/wireless/mediatek/mt76_new/mt7615/mt7615e.ko drivers/net/wireless/mediatek/mt76_new/mt7615/mt7615e.o drivers/net/wireless/mediatek/mt76_new/mt7615/mt7615e.mod.o;  true

@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/mediatek/mt76_new/mt7622/mt7622.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/net/wireless/mediatek/mt76_new/mt7622/mt7622.ko drivers/net/wireless/mediatek/mt76_new/mt7622/mt7622.o drivers/net/wireless/mediatek/mt76_new/mt7622/mt7622.mod.o;  true

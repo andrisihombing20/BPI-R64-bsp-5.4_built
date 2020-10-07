@@ -1,1 +1,0 @@
-cmd_drivers/soc/mediatek/built-in.a := rm -f drivers/soc/mediatek/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/soc/mediatek/built-in.a drivers/soc/mediatek/mtk-cmdq-helper.o drivers/soc/mediatek/mtk-infracfg.o drivers/soc/mediatek/mtk-pmic-wrap.o drivers/soc/mediatek/mtk-scpsys.o

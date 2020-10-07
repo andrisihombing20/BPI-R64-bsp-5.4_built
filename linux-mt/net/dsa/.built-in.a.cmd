@@ -1,1 +1,0 @@
-cmd_net/dsa/built-in.a := rm -f net/dsa/built-in.a; aarch64-linux-gnu-ar cDPrST net/dsa/built-in.a net/dsa/dsa.o net/dsa/dsa2.o net/dsa/master.o net/dsa/port.o net/dsa/slave.o net/dsa/switch.o net/dsa/tag_mtk.o

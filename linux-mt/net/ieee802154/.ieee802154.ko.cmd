@@ -1,1 +1,0 @@
-cmd_net/ieee802154/ieee802154.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o net/ieee802154/ieee802154.ko net/ieee802154/ieee802154.o net/ieee802154/ieee802154.mod.o;  true

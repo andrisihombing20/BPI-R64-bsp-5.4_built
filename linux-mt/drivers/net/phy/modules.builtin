@@ -1,6 +1,0 @@
-drivers/net/phy/phylink.ko
-drivers/net/phy/libphy.ko
-drivers/net/phy/fixed_phy.ko
-drivers/net/phy/icplus.ko
-drivers/net/phy/microchip.ko
-drivers/net/phy/mtk/mt753x/mt753x.ko

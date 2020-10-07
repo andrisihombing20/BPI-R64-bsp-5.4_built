@@ -1,1 +1,0 @@
-cmd_drivers/net/vxlan.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/net/vxlan.ko drivers/net/vxlan.o drivers/net/vxlan.mod.o;  true

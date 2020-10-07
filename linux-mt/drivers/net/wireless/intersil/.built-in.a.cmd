@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/intersil/built-in.a := rm -f drivers/net/wireless/intersil/built-in.a; aarch64-linux-gnu-ar cDPrST drivers/net/wireless/intersil/built-in.a drivers/net/wireless/intersil/hostap/built-in.a

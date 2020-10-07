@@ -1,1 +1,0 @@
-cmd_drivers/net/tun.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/net/tun.ko drivers/net/tun.o drivers/net/tun.mod.o;  true

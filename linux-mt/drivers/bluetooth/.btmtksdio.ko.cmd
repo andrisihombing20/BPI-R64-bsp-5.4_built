@@ -1,1 +1,0 @@
-cmd_drivers/bluetooth/btmtksdio.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o drivers/bluetooth/btmtksdio.ko drivers/bluetooth/btmtksdio.o drivers/bluetooth/btmtksdio.mod.o;  true

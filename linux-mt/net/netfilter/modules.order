@@ -1,7 +1,0 @@
-net/netfilter/nfnetlink.ko
-net/netfilter/nf_log_common.ko
-net/netfilter/x_tables.ko
-net/netfilter/xt_tcpudp.ko
-net/netfilter/xt_ecn.ko
-net/netfilter/xt_hl.ko
-net/netfilter/ipset/ip_set.ko
